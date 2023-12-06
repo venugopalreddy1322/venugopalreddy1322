@@ -1,1 +1,2 @@
 Our first step in Git!
+change 1 added
