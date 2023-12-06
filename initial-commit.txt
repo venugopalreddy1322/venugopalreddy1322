@@ -1,3 +1,7 @@
 Our first step in Git!
+<<<<<<< HEAD
 
 These changes made by dev2
+=======
+change 1 added
+>>>>>>> origin/master
